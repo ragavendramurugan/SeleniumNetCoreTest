@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/TestLibrary/v16
+/TestLibrary/bin
+/TestLibrary/obj
+/TestLibrary/Properties/PublishProfiles
